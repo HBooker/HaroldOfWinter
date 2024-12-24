@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|c:\\users\\hbboo\\desktop\\games\\haroldofwinter\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\assets\\scripts\\levelgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\assets\\scripts\\treecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\treecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\assets\\scripts\\ingredientseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingredientseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\assets\\scripts\\ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\assets\\scripts\\heartbeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heartbeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\assets\\scripts\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108FC45-30E1-B4FF-95AB-44F57F2A6D28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TreeController.cs",
+              "DocumentMoniker": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\TreeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TreeController.cs",
+              "ToolTip": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\TreeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TreeController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAJcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:50:11.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IngredientSeller.cs",
+              "DocumentMoniker": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\IngredientSeller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IngredientSeller.cs",
+              "ToolTip": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\IngredientSeller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IngredientSeller.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwIEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:19:52.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Heartbeat.cs",
+              "DocumentMoniker": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\Heartbeat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Heartbeat.cs",
+              "ToolTip": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\Heartbeat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Heartbeat.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:11:04.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ingredients.cs",
+              "DocumentMoniker": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\Ingredients.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ingredients.cs",
+              "ToolTip": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\Ingredients.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ingredients.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:37:01.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T22:50:43.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelGen.cs",
+              "DocumentMoniker": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\LevelGen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelGen.cs",
+              "ToolTip": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\LevelGen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelGen.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T22:07:26.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Billboard.cs",
+              "DocumentMoniker": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\Billboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Billboard.cs",
+              "ToolTip": "C:\\Users\\hbboo\\Desktop\\games\\HaroldOfWinter\\Assets\\Scripts\\Billboard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Billboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T04:24:13.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
